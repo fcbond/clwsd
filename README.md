@@ -76,7 +76,8 @@ NTUMC Multilingual Corpus, including XML and SQLITE schemas and conversion tools
 ## Publications
 
 * **Giulia Bonansinga and Francis Bond** (2016) *Multilingual Sense Intersection in a Parallel Corpus with Diverse Language Families.* 
-In Proceedings of the Eighth Global WordNet Conference, Bucharest. pp 44–49. [PDF](http://gwc2016.racai.ro/proceedings.html)
+In Proceedings of the Eighth Global WordNet Conference, Bucharest. pp 44–49. [PDF](https://aclanthology.org/2016.gwc-1.8/) DOI:
+10.18653/v1/2016.gwc-1.8
 * **Francis Bond and Giulia Bonansinga** (2015) *Exploring Cross-Lingual Sense Mapping in a Multilingual Parallel Corpus.* 
 In Second Italian Computational Linguistics Conference, Trento. [PDF](http://compling.hss.ntu.edu.sg/pdf/2015-clic-exploring-xling.pdf)
 * **Giulia Bonansinga** (2019) *Cross-lingual Word Sense Annotation with Multilingual WordNets*. Unpublished Master's Thesis in Digital Humanities, University of Pisa.
